@@ -1,0 +1,17 @@
+#about h5{
+    letter-spacing: 5px;
+
+}
+
+#about h3{
+    font-size: 55px;
+}
+#about img {
+    min-width: 100%;
+}
+
+.services-card{
+    border-radius: 10px;
+    padding: 20px;
+    height: 100%;
+}
